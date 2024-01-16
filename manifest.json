@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Everyday welcome",
+  "description": "Everyday browser welcome with customized pictures.",
+  "version": "1.0.0",
+  "icons": {
+    "500": "./images/500.png"
+  },
+  "action": {
+    "default_icon": "./images/500.png"
+  },
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "./service-worker.js",
+    "type": "module"
+  }
+}
