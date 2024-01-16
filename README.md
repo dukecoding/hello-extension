@@ -1,5 +1,7 @@
 # Hello extension
 
+![Hello-extension-logo](images/500.png)
+
 Simple chrome extension template, that you can customize to have a good welcome when you open the browser
 
 ## Steps to get ready
