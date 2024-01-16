@@ -12,6 +12,16 @@ Go to:
 - `/page/style.css` where you can change colors as you wish on _lines 3,4,5_
 - `/page/script.js` and add 7 strings to _greetingsList_ one for every day of the week
 
+## Installation
+
+- Download ZIP file and unzip it
+- Go to `chrome://extensions/` in chrome
+- Turn developer mode on (right top corner)
+- Click <b>"Load unpacked"</b> button
+- Select unzipped folder
+- Once it's installed, browser should automatically enable the extension
+- It's done!
+
 ## If you want to help
 
 Please, if you know better event than `runtime.onStartup` let me know 😅
